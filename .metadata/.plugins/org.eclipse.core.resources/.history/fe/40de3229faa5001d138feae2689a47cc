@@ -1,0 +1,14 @@
+package fundamentals; //FIRST = Package name
+
+import java.util.ArrayList; // SECOND = import statements
+
+//THIRD = classes and methods in classes
+
+//source file name = public class name
+// No of public classes per file = 0 or 1
+// public class scope is PUBLIC
+public class SourceFileStructure { 
+	
+	
+
+}
